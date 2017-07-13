@@ -1,0 +1,22 @@
+#cg_form fieldset{
+	display: block;
+	width: 80%;
+}
+#cg_form label{
+	float: left;
+	width: 225px;
+	text-align: right;
+}
+#cg_form input[type=text]{
+	float: left;
+	width: 200px;
+}
+
+#cg_form p{
+	font-style: italic;
+	margin-left: 225px;
+}
+
+#cg_form p strong{
+	margin: 15px;
+}
